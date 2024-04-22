@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](banner.png)
 <h1 align="center">Hi 👋, I'm Shobhit prajapati</h1>
 <h3 align="center">I am pursing BCA DS&AI from BBD University Lucknow</h3>
 
