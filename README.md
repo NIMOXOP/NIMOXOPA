@@ -1,5 +1,5 @@
 ![logo](banner.png)
-<h1 align="center">Hi 👋, I'm Shobhit prajapati</h1>
+<h1 align="center">Hi 👋, I'm Shobhit Prajapati</h1>
 <h3 align="center">I am pursing BCA DS&AI from BBD University Lucknow</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
