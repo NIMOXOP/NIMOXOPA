@@ -1,5 +1,5 @@
 ![logo](banner.png)
-<h1 align="center">Hi 👋, I'm Shobhit Prajapati</h1>
+<h1 align="center">Hi 👋, I'm NIMOXOP</h1>
 <h3 align="center">I am pursing BCA DS&AI from BBD University Lucknow</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning *Android development*
 
-- 💬 Ask me about *Python,java,html*
+- 💬 Ask me about *Anything*
 
-- 📫 How to reach me *shobhitprajapati996@gmail.com*
+- 📫 How to reach me *shobhitkumar77947@gmail.com*
 
 - ⚡ Fun fact *I THINK I AM FUNNY 😂*
 
